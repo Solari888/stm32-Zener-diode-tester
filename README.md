@@ -88,5 +88,6 @@ ADC 采集与校准：通过AD_Average函数多次采集电压取平均值，减
 接正常的 5.1V 稳压管时，OLED 屏会显示V: 05.19V，状态为OK；
 稳压管接反时，电压降到 0.6V 左右，状态显示FORWARD，和预期一致。
 
-
+csdn链接：
+【稳压二极管测量器（OLED显示与串口调试+PCB板制作） - CSDN App】https://blog.csdn.net/2603_96039154/article/details/161294548?sharetype=blog&shareId=161294548&sharerefer=APP&sharesource=2603_96039154&sharefrom=link
 ​
